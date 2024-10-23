@@ -1,0 +1,9 @@
+{
+  "name": "bitter-bandicoot-app",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/bitter-bandicoot-app/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project bitter-bandicoot-app --web",
+  "targets": {}
+}
